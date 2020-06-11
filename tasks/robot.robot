@@ -7,7 +7,6 @@ Suite Teardown  Teardown
 
 *** Tasks ***
 Get Hubspot deals
-    #Get deal ids from file
     Read hubspot deal
 
 
